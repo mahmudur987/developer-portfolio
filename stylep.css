@@ -27,6 +27,17 @@ img {
     width: 100%;
 }
 
+.div3 {
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px #6C3483;
+    border-radius: 10px;
+
+
+}
+
 .HIREME {
     background-color: coral;
     text-decoration: none;
@@ -45,6 +56,7 @@ img {
     display: inline-flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 150px;
 }
 
 .sec2 {
@@ -52,4 +64,34 @@ img {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 150px;
+}
+
+.lastdiv {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.sec3 {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 5%;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+#baby {
+    border-left: 10px solid blue;
+}
+
+#full {
+    border-left: 10px solid rgba(224, 36, 36, 0.548);
+}
+
+footer p {
+    text-align: center;
 }
