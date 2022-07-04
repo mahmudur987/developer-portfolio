@@ -7,6 +7,12 @@ h1 {
     font-size: 60px;
 }
 
+
+.name {
+    color: chocolate;
+}
+
+
 img {
     height: 600px;
 }
@@ -48,10 +54,6 @@ img {
     font-weight: 700;
 }
 
-.name {
-    color: chocolate;
-}
-
 .sec1 {
     display: inline-flex;
     background-image: url(images/top-banner.png);
@@ -65,6 +67,8 @@ img {
     background-repeat: no-repeat;
     background-position: right;
     margin-bottom: 150px;
+
+    padding-left: 50px;
 }
 
 .lastdiv {
