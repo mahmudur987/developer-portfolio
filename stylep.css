@@ -11,18 +11,23 @@ img {
     height: 600px;
 }
 
+#img2 {
+    height: 600px;
+}
+
 .iam {
     color: black;
     text-align: justify;
     width: 60%;
 }
 
-.pic {
+.divs {
     padding-left: 5%;
     padding-right: 05%;
+    width: 100%;
 }
 
-#HIREME {
+.HIREME {
     background-color: coral;
     text-decoration: none;
     background-image: linear-gradient();
@@ -40,4 +45,11 @@ img {
     display: inline-flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.sec2 {
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
