@@ -67,8 +67,10 @@ img {
     background-repeat: no-repeat;
     background-position: right;
     margin-bottom: 150px;
-
-    padding-left: 50px;
+    margin: 50px;
+    ;
+    width: 100%;
+    padding-left: 40px;
 }
 
 .lastdiv {
