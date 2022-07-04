@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+img {
+    height: 600px;
+}
+
+.iam {
+    color: black;
+    text-align: justify;
+    width: 60%;
+}
+
+.pic {
+    padding-left: 5%;
+    padding-right: 05%;
+}
+
+#HIREME {
+    background-color: coral;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 2px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.SKY {
+    color: chocolate;
+}
+
+section {
+    display: inline-flex;
+}
