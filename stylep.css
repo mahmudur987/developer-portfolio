@@ -1,5 +1,6 @@
 body {
     font-family: 'Roboto Mono', monospace;
+    margin: 0;
 }
 
 h1 {
@@ -24,15 +25,19 @@ img {
 #HIREME {
     background-color: coral;
     text-decoration: none;
+    background-image: linear-gradient();
     padding: 5px;
     border-radius: 2px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
 }
 
 .SKY {
     color: chocolate;
 }
 
-section {
+.sec1 {
     display: inline-flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
 }
